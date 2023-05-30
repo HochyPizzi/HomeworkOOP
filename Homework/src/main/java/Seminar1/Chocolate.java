@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson1;
+package Seminar1;
 
 public class Chocolate extends Product{
     private double collories;
