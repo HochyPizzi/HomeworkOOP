@@ -1,4 +1,4 @@
-package Seminar2;
+package Homework.src.main.java.Seminar2;
 
 public class Cat {
     private String name;
